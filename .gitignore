@@ -1,0 +1,46 @@
+# Entornos y archivos generados por Python y Jupyter
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Configuración local, credenciales y archivos temporales
+/.agents/
+/.codex/
+.aws/
+.ssh/
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+secrets.json
+.git-credentials
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.tmp
+*.swp
+*~
+*.log
+
+# Estos archivos contienen o muestran una etiqueta con nombre propio.
+/M&Ms - Sheet1.csv
+/01_exploracion_y_modelado.ipynb
+/datos/procesados/estimaciones.csv
+/resultados/carreras.csv
+/resultados/predicciones_externas.csv
+/graficas/02_carreras.pdf
+/graficas/02_carreras.png
+/modelos/bosque_estimaciones_humanas.joblib

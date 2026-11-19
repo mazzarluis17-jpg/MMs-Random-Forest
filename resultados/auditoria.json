@@ -1,0 +1,26 @@
+{
+  "filas": 92,
+  "columnas_originales": [
+    "carrera",
+    "prediccion",
+    "vacia",
+    "Promedio"
+  ],
+  "faltantes_por_columna": {
+    "carrera": 0,
+    "prediccion": 0,
+    "vacia": 92,
+    "Promedio": 91
+  },
+  "etiquetas_con_espacios_recortados": 1,
+  "pares_repetidos_distintos": 10,
+  "filas_en_pares_repetidos": 26,
+  "repeticiones_adicionales": 16,
+  "valores_columna_promedio": [
+    "448.5434783"
+  ],
+  "sha256_original": "cb8cba971e6df0f48217c43219ca81395a6746c57389d4c4998cfc666f363b6d",
+  "cantidad_real_documentada": false,
+  "categorias": 14,
+  "promedio_auxiliar_coincide": true
+}

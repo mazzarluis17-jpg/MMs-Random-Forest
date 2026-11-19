@@ -1,0 +1,4 @@
+escenario,n,media,mediana
+todas,92,448.54347826086956,300.0
+sin_maximo,91,418.3076923076923,300.0
+dentro_de_cercas_Tukey,84,331.3809523809524,300.0
